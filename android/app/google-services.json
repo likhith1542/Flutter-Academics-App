@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586566148422",
+    "firebase_url": "https://vitask1.firebaseio.com",
+    "project_id": "vitask1",
+    "storage_bucket": "vitask1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586566148422:android:7ddbbd0266706fed4e8547",
+        "android_client_info": {
+          "package_name": "com.likhith.vitap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586566148422-m2mpgc1b6l7abmaouq0f7k8t8kuckl5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcx-WOPgeG42nwqAsMoGZ-N-BpI3HKZD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586566148422-m2mpgc1b6l7abmaouq0f7k8t8kuckl5k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "586566148422-e7s8njfb1938tt4so0e4e8prorr6ko3u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.likhith.vit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
