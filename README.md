@@ -1,16 +1,20 @@
-# vitap
+# VIT-AP Academics App
 
-A new Flutter application.
+Developed Academics App for VIT-AP college in flutter where students can login to academics portal, wifi login, exam cloud, attendance manager, cgpa/gpa calculator, faculty info, Assignments share, announcements.
 
-## Getting Started
+# How to Use?
+* git clone https://github.com/likhith1542/Flutter-Academics-App.git
+* create project in Firebase
+  * creating firebase project and Android setup: https://firebase.google.com/docs/android/setup .
+  * creating ios setup: https://firebase.google.com/docs/ios/setup (skip step1 if already created project for android).
+  * create assignments folder in Storage.
+  * create collections in Database:
+     * Announcements
+     * Assignments URL
+     * Faculty
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Important Points
+* Don't forget to change base urls for storage.
+* Don't forget change to JSON files.
+* JSON files are added only to Android App.
+* Don't forget to add JSON files to ios.
