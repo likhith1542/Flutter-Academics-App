@@ -12,6 +12,17 @@ Developed Academics App for VIT-AP college in flutter where students can login t
      * Announcements
      * Assignments URL
      * Faculty
+# ScreenShots
+<a href="url"><img src="https://github.com/likhith1542/Flutter-Academics-App/blob/master/ScreenShots/Screenshot_1594506728.png" height="493" width="240"></a>
+<a href="url"><img src="https://github.com/likhith1542/Flutter-Academics-App/blob/master/ScreenShots/Screenshot_1594506777.png" height="493" width="240"></a>
+<a href="url"><img src="https://github.com/likhith1542/Flutter-Academics-App/blob/master/ScreenShots/Screenshot_1594506792.png" height="493" width="240"></a>
+<a href="url"><img src="https://github.com/likhith1542/Flutter-Academics-App/blob/master/ScreenShots/Screenshot_1594506801.png" height="493" width="240"></a>
+<a href="url"><img src="https://github.com/likhith1542/Flutter-Academics-App/blob/master/ScreenShots/Screenshot_1594506809.png" height="493" width="240"></a>
+<a href="url"><img src="https://github.com/likhith1542/Flutter-Academics-App/blob/master/ScreenShots/Screenshot_1594506815.png" height="493" width="240"></a>
+<a href="url"><img src="https://github.com/likhith1542/Flutter-Academics-App/blob/master/ScreenShots/Screenshot_1594506833.png" height="493" width="240"></a>
+<a href="url"><img src="https://github.com/likhith1542/Flutter-Academics-App/blob/master/ScreenShots/Screenshot_1594506841.png" height="493" width="240"></a>
+<a href="url"><img src="https://github.com/likhith1542/Flutter-Academics-App/blob/master/ScreenShots/Screenshot_1594506848.png" height="493" width="240"></a>
+<a href="url"><img src="https://github.com/likhith1542/Flutter-Academics-App/blob/master/ScreenShots/Screenshot_1594506858.png" height="493" width="240"></a>
 
 # Important Points
 * Don't forget to change base urls for storage.
